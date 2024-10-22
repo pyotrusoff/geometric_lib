@@ -1,3 +1,17 @@
+# Functions
+## Circle
+- Returns area and perimeter of given circle
+
+## Square
+- Returns area and perimeter of given square
+
+## Rectangle
+- Returns area and perimeter of given rectangle
+
+# Triangle
+- Returns area and perimeter of given triangle
+
+
 # Math formulas
 ## Area
 - Circle: S = πR²
