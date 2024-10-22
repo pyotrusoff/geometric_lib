@@ -1,3 +1,7 @@
+# Library description
+## Geometric_lib is a github library for calculating the area and perimeter of different geometric shapes. It supports various shapes, including circles, rectangles, triangles, and squares.
+
+
 # Functions
 ## Circle
 - Returns area and perimeter of given circle
