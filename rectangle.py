@@ -1,5 +1,7 @@
-"Parameters: a(int) rectangle side"
-"Parameters: b(int) 2nd rectangle side"
+'''Parameters: 
+a(int) rectangle side
+b(int) another rectangle side
+'''
 def area(a, b): 
     return a * b 
     "returns area of given rectangle"
