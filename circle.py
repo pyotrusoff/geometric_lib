@@ -1,5 +1,5 @@
 import math
-"Parameters: circle radius"
+"Parameters: a(int) circle radius"
 def area(r):
     return math.pi * r * r
     "returns area of given circle"
