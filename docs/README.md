@@ -2,22 +2,28 @@
 ## Geometric_lib is a github library for calculating the area and perimeter of different geometric shapes. It supports various shapes, including circles, rectangles, triangles, and squares.
 
 
-# Functions
+# Figures
 ## Circle
-- Returns area and perimeter of given circle  
 ### Parameters 
 - r (int): circle radius
+### Functions 
+- area(r): returns area of given circle
+- perimeter(r): returns perimeter of given circle
 
 ## Square
-- Returns area and perimeter of given square
 ### Parameters
 - a (int): sqare side
+### Functions 
+- area(a): returns area of given square
+- perimeter(a): returns perimeter of given square
 
 ## Rectangle
-- Returns area and perimeter of given rectangle
 ### Parameters
 - a (int): rectangle side
 - b (int): other rectangle side
+### Functions 
+- area(a, b): returns area of given rectangle
+- perimeter(a, b): returns perimeter of given rectangle
 
 ## Triangle
 - Returns area and perimeter of given triangle
@@ -26,6 +32,9 @@
 - b (int): other triangle side
 - c (int): 3rd triangle side
 - b (int): triangle height
+### Functions 
+- area(a, h): returns area of given triangle
+- perimeter(a, b, c): returns perimeter of given triangle
 
 # Math formulas
 ## Area
