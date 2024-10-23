@@ -26,7 +26,6 @@
 - perimeter(a, b): returns perimeter of given rectangle
 
 ## [Triangle](https://github.com/pyotrusoff/geometric_lib/blob/new_features_%3C467815%3E/triangle.py)
-- Returns area and perimeter of given triangle
 ### Parameters 
 - a (int): triangle side
 - b (int): other triangle side
