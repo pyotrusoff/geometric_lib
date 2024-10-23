@@ -4,17 +4,28 @@
 
 # Functions
 ## Circle
-- Returns area and perimeter of given circle
+- Returns area and perimeter of given circle  
+### Parameters 
+    - r (int): circle radius
 
 ## Square
 - Returns area and perimeter of given square
+### Parameters
+    - a (int): sqare side
 
 ## Rectangle
 - Returns area and perimeter of given rectangle
+### Parameters
+    - a (int): rectangle side
+    - b (int): other rectangle side
 
 # Triangle
 - Returns area and perimeter of given triangle
-
+### Parameters 
+    - a (int): triangle side
+    - b (int): other triangle side
+    - c (int): 3rd triangle side
+    - b (int): triangle height
 
 # Math formulas
 ## Area
