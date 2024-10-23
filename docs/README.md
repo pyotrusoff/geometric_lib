@@ -11,7 +11,7 @@
 ## Square
 - Returns area and perimeter of given square
 ### Parameters
-    - a (int): sqare side
+- a (int): sqare side
 
 ## Rectangle
 - Returns area and perimeter of given rectangle
