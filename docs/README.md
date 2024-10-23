@@ -10,14 +10,14 @@
 - area(r): returns area of given circle
 - perimeter(r): returns perimeter of given circle
 
-## Square
+## [Square](https://github.com/pyotrusoff/geometric_lib/blob/new_features_%3C467815%3E/square.py)
 ### Parameters
 - a (int): sqare side
 ### Functions 
 - area(a): returns area of given square
 - perimeter(a): returns perimeter of given square
 
-## Rectangle
+## [Rectangle](https://github.com/pyotrusoff/geometric_lib/blob/new_features_%3C467815%3E/rectangle.py)
 ### Parameters
 - a (int): rectangle side
 - b (int): other rectangle side
@@ -25,7 +25,7 @@
 - area(a, b): returns area of given rectangle
 - perimeter(a, b): returns perimeter of given rectangle
 
-## Triangle
+## [Triangle](https://github.com/pyotrusoff/geometric_lib/blob/new_features_%3C467815%3E/triangle.py)
 - Returns area and perimeter of given triangle
 ### Parameters 
 - a (int): triangle side
