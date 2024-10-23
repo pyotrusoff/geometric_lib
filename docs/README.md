@@ -19,7 +19,7 @@
 - a (int): rectangle side
 - b (int): other rectangle side
 
-# Triangle
+## Triangle
 - Returns area and perimeter of given triangle
 ### Parameters 
 - a (int): triangle side
